@@ -1,0 +1,3 @@
+name: Mc-murder
+version: ${project.version}
+main: xyz.spypaste.plugin.mc_murder.Main
